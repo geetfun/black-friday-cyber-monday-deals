@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="assets/banner.webp" width="1200" alt="Black Friday 2026 notebook collage">
+</p>
+
 # Awesome Black Friday Deals for Developers — 2026
 
 **Languages:** [English](README.md) · [简体中文](README_zh.md)
 
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
 
-## LabEx Black Friday
+## <img src="assets/labex.webp" width="112" alt="LabEx"> Black Friday
 
 Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser. Both offers are available to new and existing users through **December 7, 2026**.
 
@@ -15,19 +19,21 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 ## Contents
 
-- [Courses & Books](#courses--books)
-- [Security & Privacy](#security--privacy)
-- [Developer Tools](#developer-tools)
-- [Cloud & Hosting](#cloud--hosting)
-- [AI Tools](#ai-tools)
-- [Design & Media](#design--media)
-- [Website Builders & Templates](#website-builders--templates)
-- [Productivity & Utilities](#productivity--utilities)
-- [Business & Marketing](#business--marketing)
+- [Courses & Books](#learning)
+- [Security & Privacy](#security)
+- [Developer Tools](#development)
+- [Cloud & Hosting](#cloud)
+- [AI Tools](#ai)
+- [Design & Media](#design)
+- [Website Builders & Templates](#web)
+- [Productivity & Utilities](#productivity)
+- [Business & Marketing](#business)
 
 Prices are in USD unless another currency is shown. `—` means no amount or single code is listed. Offers may apply to selected plans; follow the product link for dates and full terms.
 
-## Courses & Books
+<a name="learning"></a>
+
+## <img src="assets/learning.webp" width="48" alt=""> Courses & Books
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -43,7 +49,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [Skillshare](https://www.skillshare.com/en/join) | 20% off | — | — |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | 40% off | From $30.00 · course | `BF2026` |
 
-## Security & Privacy
+<a name="security"></a>
+
+## <img src="assets/security.webp" width="48" alt=""> Security & Privacy
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -65,7 +73,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
 
-## Developer Tools
+<a name="development"></a>
+
+## <img src="assets/development.webp" width="48" alt=""> Developer Tools
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -101,7 +111,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% off | $35.00 · lifetime | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | Lifetime offer | From $199.00 · lifetime, 25 sites | — |
 
-## Cloud & Hosting
+<a name="cloud"></a>
+
+## <img src="assets/cloud.webp" width="48" alt=""> Cloud & Hosting
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -121,7 +133,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
 
-## AI Tools
+<a name="ai"></a>
+
+## <img src="assets/ai.webp" width="48" alt=""> AI Tools
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -151,7 +165,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% off | $89.64 / year · Pro | — |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% off | From $27.30 / month · billed yearly, first year | `BLACKFRIDAY2026` |
 
-## Design & Media
+<a name="design"></a>
+
+## <img src="assets/design.webp" width="48" alt=""> Design & Media
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -209,7 +225,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [SnapDub](https://snapdub.ai/) | 20% off | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | See offer | — | — |
 
-## Website Builders & Templates
+<a name="web"></a>
+
+## <img src="assets/web.webp" width="48" alt=""> Website Builders & Templates
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -234,7 +252,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Up to 50% off | $398.00 · lifetime | — |
 | [ZipWP](https://zipwp.com/black-friday/) | Up to 47% off | — | — |
 
-## Productivity & Utilities
+<a name="productivity"></a>
+
+## <img src="assets/productivity.webp" width="48" alt=""> Productivity & Utilities
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -350,7 +370,9 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 | [Yonder](https://appsbymo.app/yonder/) | 50% off | — | `BLACKFRIDAY` |
 | [ZxClip](https://zxclip.com/) | 70% off | $24.00 · lifetime | — |
 
-## Business & Marketing
+<a name="business"></a>
+
+## <img src="assets/business.webp" width="48" alt=""> Business & Marketing
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -414,6 +436,6 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 ## Contributing
 
-Add or update a row in the relevant category and open a pull request. Use a direct product link, a short discount, a sale price with its currency and billing term, and the exact coupon code. Use `—` for missing information. Keep product names alphabetical and omit images.
+Add or update a row in the relevant category and open a pull request. Use a direct product link, a short discount, a sale price with its currency and billing term, and the exact coupon code. Use `—` for missing information. Keep product names alphabetical and product rows text-only. Decorative artwork lives in `assets/`.
 
 Translations can be added as `README_<language>.md` with a link in the language bar.

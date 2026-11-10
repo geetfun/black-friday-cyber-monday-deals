@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="assets/banner.webp" width="1200" alt="2026 黑五手帐拼贴横幅">
+</p>
+
 # 2026 开发者黑五优惠精选
 
 **语言：** [English](README.md) · [简体中文](README_zh.md)
 
 精选开发工具、技术学习与软件的黑色星期五和网络星期一优惠，由 [LabEx](https://labex.io/) 整理。
 
-## LabEx 黑五优惠
+## <img src="assets/labex.webp" width="112" alt="LabEx"> 黑五优惠
 
 通过浏览器中的动手实验，学习 Linux、DevOps、网络安全与云计算。以下两种优惠均适用于新老用户，截止日期为 **2026 年 12 月 7 日**。
 
@@ -15,19 +19,21 @@
 
 ## 目录
 
-- [课程与书籍](#课程与书籍)
-- [安全与隐私](#安全与隐私)
-- [开发工具](#开发工具)
-- [云服务与主机](#云服务与主机)
-- [AI 工具](#ai-工具)
-- [设计与媒体](#设计与媒体)
-- [建站工具与模板](#建站工具与模板)
-- [效率与实用工具](#效率与实用工具)
-- [商业与营销](#商业与营销)
+- [课程与书籍](#learning)
+- [安全与隐私](#security)
+- [开发工具](#development)
+- [云服务与主机](#cloud)
+- [AI 工具](#ai)
+- [设计与媒体](#design)
+- [建站工具与模板](#web)
+- [效率与实用工具](#productivity)
+- [商业与营销](#business)
 
 除另有货币标记外，价格均以美元计价。`—` 表示未列出金额或单一优惠码。部分优惠仅适用于指定方案，具体日期与完整条款请查看产品链接。
 
-## 课程与书籍
+<a name="learning"></a>
+
+## <img src="assets/learning.webp" width="48" alt=""> 课程与书籍
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -43,7 +49,9 @@
 | [Skillshare](https://www.skillshare.com/en/join) | 立减 20% | — | — |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | 立减 40% | 起价 $30.00 · 课程 | `BF2026` |
 
-## 安全与隐私
+<a name="security"></a>
+
+## <img src="assets/security.webp" width="48" alt=""> 安全与隐私
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -65,7 +73,9 @@
 | [Surfshark](https://surfshark.com/pricing) | 最高减免 90% | 起价 $67.23 / 27 个月 | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 立减 30% | $20.30 · Standard | `BF2026` |
 
-## 开发工具
+<a name="development"></a>
+
+## <img src="assets/development.webp" width="48" alt=""> 开发工具
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -101,7 +111,9 @@
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 立减 40% | $35.00 · 终身版 | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | 终身版优惠 | 起价 $199.00 · 终身版，25 个网站 | — |
 
-## 云服务与主机
+<a name="cloud"></a>
+
+## <img src="assets/cloud.webp" width="48" alt=""> 云服务与主机
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -121,7 +133,9 @@
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 查看优惠 | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 最高减免 60% | — | — |
 
-## AI 工具
+<a name="ai"></a>
+
+## <img src="assets/ai.webp" width="48" alt=""> AI 工具
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -151,7 +165,9 @@
 | [Vogoo AI](https://vogoo.ai/black-friday) | 立减 40% | $89.64 / 年 · Pro | — |
 | [Wiredesk](https://wiredesk.ai/pricing) | 立减 30% | 起价 $27.30 / 月 · 按年计费, 首年 | `BLACKFRIDAY2026` |
 
-## 设计与媒体
+<a name="design"></a>
+
+## <img src="assets/design.webp" width="48" alt=""> 设计与媒体
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -209,7 +225,9 @@
 | [SnapDub](https://snapdub.ai/) | 立减 20% | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | 查看优惠 | — | — |
 
-## 建站工具与模板
+<a name="web"></a>
+
+## <img src="assets/web.webp" width="48" alt=""> 建站工具与模板
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -234,7 +252,9 @@
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | 最高减免 50% | $398.00 · 终身版 | — |
 | [ZipWP](https://zipwp.com/black-friday/) | 最高减免 47% | — | — |
 
-## 效率与实用工具
+<a name="productivity"></a>
+
+## <img src="assets/productivity.webp" width="48" alt=""> 效率与实用工具
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -350,7 +370,9 @@
 | [Yonder](https://appsbymo.app/yonder/) | 立减 50% | — | `BLACKFRIDAY` |
 | [ZxClip](https://zxclip.com/) | 立减 70% | $24.00 · 终身版 | — |
 
-## 商业与营销
+<a name="business"></a>
+
+## <img src="assets/business.webp" width="48" alt=""> 商业与营销
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -414,6 +436,6 @@
 
 ## 参与贡献
 
-欢迎在对应分类中新增或更新一行，并提交 Pull Request。请提供产品直达链接、简短的折扣说明、注明币种与计费周期的优惠价，以及准确的优惠码。缺失信息填写 `—`，产品按名称字母顺序排列，不添加图片。
+欢迎在对应分类中新增或更新一行，并提交 Pull Request。请提供产品直达链接、简短的折扣说明、注明币种与计费周期的优惠价，以及准确的优惠码。缺失信息填写 `—`，产品按名称字母顺序排列，表格内不添加图片。装饰素材统一存放在 `assets/`。
 
 其他语言版本可命名为 `README_<language>.md`，并在顶部语言栏添加链接。
