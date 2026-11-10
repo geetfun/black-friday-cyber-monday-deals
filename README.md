@@ -13,6 +13,8 @@ Black Friday and Cyber Monday deals on developer tools, technical learning, and 
 </p>
 <h2 align="center">LabEx Black Friday</h2>
 
+<p align="center"><strong>Black Friday is LabEx's only sale of the year.</strong></p>
+
 Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser. Both offers are available to new and existing users through **December 7, 2026**.
 
 | Product | Discount | Sale price (USD) | Code |
