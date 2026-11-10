@@ -4,7 +4,7 @@
 
 # Awesome Black Friday Deals for Developers — 2026
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
 
@@ -24,7 +24,6 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 ## Contents
 
-- [Courses & Books](#learning)
 - [Security & Privacy](#security)
 - [Developer Tools](#development)
 - [Cloud & Hosting](#cloud)
@@ -35,30 +34,6 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 - [Business & Marketing](#business)
 
 Prices are in USD unless another currency is shown. `—` means no amount or single code is listed. Offers may apply to selected plans; follow the product link for dates and full terms.
-
-<a name="learning"></a>
-
-<p align="center">
-  <img src="assets/learning.webp" height="112" alt="">
-</p>
-<h2 align="center">Courses &amp; Books</h2>
-
-| Product | Discount | Sale price | Code |
-| --- | --- | --- | --- |
-| [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY26) | 40% off | — | `BLACKFRIDAY26` |
-| [Blue Raven](https://academy.bluraven.io/courses) | Up to 40% off | — | — |
-| [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY26) | 40% off | — | `BLACKFRIDAY26` |
-| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | 50% off | $24.99 · one-time | `BLACK` |
-| [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | — | `BFF25` |
-| [LabEx Pro · 1 year](https://labex.io/checkout?type=2&coupon=2026BF30) | **30% off** | **$69.90** | `2026BF30` |
-| [LabEx Pro · 2 years](https://labex.io/checkout?type=4&coupon=2026BF50) | **50% off** | **$99.90** | `2026BF50` |
-| [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY26) | 40% off | — | `BLACKFRIDAY26` |
-| [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY26) | 40% off | — | `BLACKFRIDAY26` |
-| [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) | 15% off certifications; up to $600 off bundles | From $764.00 · certification | — |
-| [pwn.guide](https://pwn.guide/pricing) | 20% off | $199.20 · lifetime | `BLKFRI20` |
-| [Skillshare](https://www.skillshare.com/en/join) | 20% off | — | — |
-| [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | 40% off | From $30.00 · course | `BF2026` |
-
 
 <a name="security"></a>
 

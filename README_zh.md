@@ -4,7 +4,7 @@
 
 # 2026 开发者黑五优惠精选
 
-**语言：** [English](README.md) · [简体中文](README_zh.md)
+**语言：** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 精选开发工具、技术学习与软件的黑色星期五和网络星期一优惠，由 [LabEx](https://labex.io/) 整理。
 
@@ -24,7 +24,6 @@
 
 ## 目录
 
-- [课程与书籍](#learning)
 - [安全与隐私](#security)
 - [开发工具](#development)
 - [云服务与主机](#cloud)
@@ -35,30 +34,6 @@
 - [商业与营销](#business)
 
 除另有货币标记外，价格均以美元计价。`—` 表示未列出金额或单一优惠码。部分优惠仅适用于指定方案，具体日期与完整条款请查看产品链接。
-
-<a name="learning"></a>
-
-<p align="center">
-  <img src="assets/learning.webp" height="112" alt="">
-</p>
-<h2 align="center">课程与书籍</h2>
-
-| 产品 | 折扣 | 优惠价 | 优惠码 |
-| --- | --- | --- | --- |
-| [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
-| [Blue Raven](https://academy.bluraven.io/courses) | 最高减免 40% | — | — |
-| [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
-| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | 立减 50% | $24.99 · 一次性购买 | `BLACK` |
-| [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 立减 25% | — | `BFF25` |
-| [LabEx Pro · 1 年](https://labex.io/checkout?type=2&coupon=2026BF30) | **立减 30%** | **$69.90** | `2026BF30` |
-| [LabEx Pro · 2 年](https://labex.io/checkout?type=4&coupon=2026BF50) | **立减 50%** | **$99.90** | `2026BF50` |
-| [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
-| [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
-| [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) | 认证立减 15%；套装最高减 $600 | 起价 $764.00 · 认证 | — |
-| [pwn.guide](https://pwn.guide/pricing) | 立减 20% | $199.20 · 终身版 | `BLKFRI20` |
-| [Skillshare](https://www.skillshare.com/en/join) | 立减 20% | — | — |
-| [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | 立减 40% | 起价 $30.00 · 课程 | `BF2026` |
-
 
 <a name="security"></a>
 
