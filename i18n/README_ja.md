@@ -1,15 +1,31 @@
 <p align="center">
-  <img src="assets/banner.webp" width="1200" alt="2026 年ブラックフライデーの手帳風コラージュ">
+  <img src="../assets/banner.webp" width="1200" alt="2026 年ブラックフライデーの手帳風コラージュ">
 </p>
 
 # 開発者向けブラックフライデーセール — 2026
 
-**言語:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**言語:** [English](../README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 開発ツール、技術学習、ソフトウェアのブラックフライデー・サイバーマンデーセールをまとめました。[LabEx](https://labex.io/) が厳選しています。
 
+## 目次
+
+- [LabEx ブラックフライデー](#labex)
+- [セキュリティとプライバシー](#security)
+- [開発ツール](#development)
+- [クラウドとホスティング](#cloud)
+- [AI ツール](#ai)
+- [デザインとメディア](#design)
+- [サイト作成ツールとテンプレート](#web)
+- [生産性とユーティリティ](#productivity)
+- [ビジネスとマーケティング](#business)
+
+別の通貨が明記されていない限り、価格は米ドルです。`—` は金額または単一のコードが記載されていないことを示します。一部の特典は指定プランのみが対象です。期間や詳細条件は製品リンクをご確認ください。
+
+<a name="labex"></a>
+
 <p align="center">
-  <img src="assets/labex.webp" height="64" alt="LabEx">
+  <img src="../assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx ブラックフライデー</h2>
 
@@ -22,23 +38,10 @@
 | [LabEx Pro · 1 年](https://labex.io/checkout?type=2&coupon=2026BF30) | **30% 割引** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2 年](https://labex.io/checkout?type=4&coupon=2026BF50) | **50% 割引** | **$99.90** | `2026BF50` |
 
-## 目次
-
-- [セキュリティとプライバシー](#security)
-- [開発ツール](#development)
-- [クラウドとホスティング](#cloud)
-- [AI ツール](#ai)
-- [デザインとメディア](#design)
-- [サイト作成ツールとテンプレート](#web)
-- [生産性とユーティリティ](#productivity)
-- [ビジネスとマーケティング](#business)
-
-別の通貨が明記されていない限り、価格は米ドルです。`—` は金額または単一のコードが記載されていないことを示します。一部の特典は指定プランのみが対象です。期間や詳細条件は製品リンクをご確認ください。
-
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="112" alt="">
+  <img src="../assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">セキュリティとプライバシー</h2>
 
@@ -65,7 +68,7 @@
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="112" alt="">
+  <img src="../assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">開発ツール</h2>
 
@@ -106,7 +109,7 @@
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="112" alt="">
+  <img src="../assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">クラウドとホスティング</h2>
 
@@ -131,7 +134,7 @@
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="112" alt="">
+  <img src="../assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">AI ツール</h2>
 
@@ -166,7 +169,7 @@
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="112" alt="">
+  <img src="../assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">デザインとメディア</h2>
 
@@ -229,7 +232,7 @@
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="112" alt="">
+  <img src="../assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">サイト作成ツールとテンプレート</h2>
 
@@ -259,7 +262,7 @@
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="112" alt="">
+  <img src="../assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">生産性とユーティリティ</h2>
 
@@ -380,7 +383,7 @@
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="112" alt="">
+  <img src="../assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">ビジネスとマーケティング</h2>
 
@@ -448,4 +451,4 @@
 
 該当カテゴリの行を追加・更新し、Pull Request を作成してください。製品への直接リンク、簡潔な割引内容、通貨と請求期間を含むセール価格、正確なクーポンコードを記載します。不明な情報は `—` とし、製品名をアルファベット順に並べてください。表の行には画像を追加せず、装飾素材は `assets/` に配置します。
 
-翻訳は `README_<language>.md` として追加し、上部の言語欄にリンクを追加できます。
+翻訳は `i18n/README_<language>.md` として追加し、上部の言語欄にリンクを追加できます。

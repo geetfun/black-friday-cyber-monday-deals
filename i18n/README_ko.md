@@ -1,15 +1,31 @@
 <p align="center">
-  <img src="assets/banner.webp" width="1200" alt="2026 블랙프라이데이 다이어리 콜라주">
+  <img src="../assets/banner.webp" width="1200" alt="2026 블랙프라이데이 다이어리 콜라주">
 </p>
 
 # 개발자를 위한 블랙프라이데이 할인 모음 — 2026
 
-**언어:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**언어:** [English](../README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 개발 도구, 기술 학습, 소프트웨어의 블랙프라이데이 및 사이버먼데이 혜택을 모았습니다. [LabEx](https://labex.io/)가 엄선합니다.
 
+## 목차
+
+- [LabEx 블랙프라이데이](#labex)
+- [보안 및 개인정보 보호](#security)
+- [개발 도구](#development)
+- [클라우드 및 호스팅](#cloud)
+- [AI 도구](#ai)
+- [디자인 및 미디어](#design)
+- [웹사이트 빌더 및 템플릿](#web)
+- [생산성 및 유틸리티](#productivity)
+- [비즈니스 및 마케팅](#business)
+
+다른 통화가 표시되지 않은 가격은 미국 달러 기준입니다. `—`는 금액 또는 단일 코드가 기재되지 않았음을 뜻합니다. 일부 혜택은 특정 요금제에만 적용됩니다. 기간과 전체 조건은 제품 링크에서 확인하세요.
+
+<a name="labex"></a>
+
 <p align="center">
-  <img src="assets/labex.webp" height="64" alt="LabEx">
+  <img src="../assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx 블랙프라이데이</h2>
 
@@ -22,23 +38,10 @@
 | [LabEx Pro · 1년](https://labex.io/checkout?type=2&coupon=2026BF30) | **30% 할인** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2년](https://labex.io/checkout?type=4&coupon=2026BF50) | **50% 할인** | **$99.90** | `2026BF50` |
 
-## 목차
-
-- [보안 및 개인정보 보호](#security)
-- [개발 도구](#development)
-- [클라우드 및 호스팅](#cloud)
-- [AI 도구](#ai)
-- [디자인 및 미디어](#design)
-- [웹사이트 빌더 및 템플릿](#web)
-- [생산성 및 유틸리티](#productivity)
-- [비즈니스 및 마케팅](#business)
-
-다른 통화가 표시되지 않은 가격은 미국 달러 기준입니다. `—`는 금액 또는 단일 코드가 기재되지 않았음을 뜻합니다. 일부 혜택은 특정 요금제에만 적용됩니다. 기간과 전체 조건은 제품 링크에서 확인하세요.
-
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="112" alt="">
+  <img src="../assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">보안 및 개인정보 보호</h2>
 
@@ -65,7 +68,7 @@
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="112" alt="">
+  <img src="../assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">개발 도구</h2>
 
@@ -106,7 +109,7 @@
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="112" alt="">
+  <img src="../assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">클라우드 및 호스팅</h2>
 
@@ -131,7 +134,7 @@
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="112" alt="">
+  <img src="../assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">AI 도구</h2>
 
@@ -166,7 +169,7 @@
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="112" alt="">
+  <img src="../assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">디자인 및 미디어</h2>
 
@@ -229,7 +232,7 @@
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="112" alt="">
+  <img src="../assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">웹사이트 빌더 및 템플릿</h2>
 
@@ -259,7 +262,7 @@
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="112" alt="">
+  <img src="../assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">생산성 및 유틸리티</h2>
 
@@ -380,7 +383,7 @@
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="112" alt="">
+  <img src="../assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">비즈니스 및 마케팅</h2>
 
@@ -448,4 +451,4 @@
 
 해당 카테고리에 행을 추가하거나 수정한 뒤 Pull Request를 제출하세요. 제품의 직접 링크, 간단한 할인 정보, 통화와 청구 기간을 포함한 할인 가격, 정확한 쿠폰 코드를 기재하세요. 정보가 없으면 `—`로 표시하고 제품명은 알파벳순으로 정렬합니다. 표의 행에는 이미지를 넣지 않고 장식용 이미지는 `assets/`에 저장합니다.
 
-번역은 `README_<language>.md`로 추가하고 상단 언어 목록에 링크를 넣을 수 있습니다.
+번역은 `i18n/README_<language>.md`로 추가하고 상단 언어 목록에 링크를 넣을 수 있습니다.

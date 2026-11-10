@@ -4,9 +4,25 @@
 
 # Awesome Black Friday Deals for Developers — 2026
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**Languages:** [English](README.md) · [简体中文](i18n/README_zh.md) · [Español](i18n/README_es.md) · [Français](i18n/README_fr.md) · [Deutsch](i18n/README_de.md) · [日本語](i18n/README_ja.md) · [Русский](i18n/README_ru.md) · [한국어](i18n/README_ko.md) · [Português](i18n/README_pt.md)
 
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
+
+## Contents
+
+- [LabEx Black Friday](#labex)
+- [Security & Privacy](#security)
+- [Developer Tools](#development)
+- [Cloud & Hosting](#cloud)
+- [AI Tools](#ai)
+- [Design & Media](#design)
+- [Website Builders & Templates](#web)
+- [Productivity & Utilities](#productivity)
+- [Business & Marketing](#business)
+
+Prices are in USD unless another currency is shown. `—` means no amount or single code is listed. Offers may apply to selected plans; follow the product link for dates and full terms.
+
+<a name="labex"></a>
 
 <p align="center">
   <img src="assets/labex.webp" height="64" alt="LabEx">
@@ -21,19 +37,6 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [LabEx Pro · 1 year](https://labex.io/checkout?type=2&coupon=2026BF30) | **30% off** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2 years](https://labex.io/checkout?type=4&coupon=2026BF50) | **50% off** | **$99.90** | `2026BF50` |
-
-## Contents
-
-- [Security & Privacy](#security)
-- [Developer Tools](#development)
-- [Cloud & Hosting](#cloud)
-- [AI Tools](#ai)
-- [Design & Media](#design)
-- [Website Builders & Templates](#web)
-- [Productivity & Utilities](#productivity)
-- [Business & Marketing](#business)
-
-Prices are in USD unless another currency is shown. `—` means no amount or single code is listed. Offers may apply to selected plans; follow the product link for dates and full terms.
 
 <a name="security"></a>
 
@@ -448,4 +451,4 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 Add or update a row in the relevant category and open a pull request. Use a direct product link, a short discount, a sale price with its currency and billing term, and the exact coupon code. Use `—` for missing information. Keep product names alphabetical and product rows text-only. Decorative artwork lives in `assets/`.
 
-Translations can be added as `README_<language>.md` with a link in the language bar.
+Translations can be added as `i18n/README_<language>.md` with a link in the language bar.

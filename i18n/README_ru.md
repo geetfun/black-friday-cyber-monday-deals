@@ -1,15 +1,31 @@
 <p align="center">
-  <img src="assets/banner.webp" width="1200" alt="Коллаж в стиле блокнота к Чёрной пятнице 2026">
+  <img src="../assets/banner.webp" width="1200" alt="Коллаж в стиле блокнота к Чёрной пятнице 2026">
 </p>
 
 # Скидки Чёрной пятницы для разработчиков — 2026
 
-**Языки:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**Языки:** [English](../README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 Предложения Чёрной пятницы и Киберпонедельника на инструменты разработки, техническое обучение и программы. Подборка от [LabEx](https://labex.io/).
 
+## Содержание
+
+- [Чёрная пятница в LabEx](#labex)
+- [Безопасность и конфиденциальность](#security)
+- [Инструменты разработки](#development)
+- [Облако и хостинг](#cloud)
+- [Инструменты ИИ](#ai)
+- [Дизайн и медиа](#design)
+- [Конструкторы сайтов и шаблоны](#web)
+- [Продуктивность и утилиты](#productivity)
+- [Бизнес и маркетинг](#business)
+
+Цены указаны в долларах США, если не обозначена другая валюта. `—` означает, что сумма или единый код не указаны. Некоторые предложения действуют только для определённых тарифов; сроки и полные условия смотрите по ссылке на продукт.
+
+<a name="labex"></a>
+
 <p align="center">
-  <img src="assets/labex.webp" height="64" alt="LabEx">
+  <img src="../assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">Чёрная пятница в LabEx</h2>
 
@@ -22,23 +38,10 @@
 | [LabEx Pro · 1 год](https://labex.io/checkout?type=2&coupon=2026BF30) | **Скидка 30%** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2 года](https://labex.io/checkout?type=4&coupon=2026BF50) | **Скидка 50%** | **$99.90** | `2026BF50` |
 
-## Содержание
-
-- [Безопасность и конфиденциальность](#security)
-- [Инструменты разработки](#development)
-- [Облако и хостинг](#cloud)
-- [Инструменты ИИ](#ai)
-- [Дизайн и медиа](#design)
-- [Конструкторы сайтов и шаблоны](#web)
-- [Продуктивность и утилиты](#productivity)
-- [Бизнес и маркетинг](#business)
-
-Цены указаны в долларах США, если не обозначена другая валюта. `—` означает, что сумма или единый код не указаны. Некоторые предложения действуют только для определённых тарифов; сроки и полные условия смотрите по ссылке на продукт.
-
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="112" alt="">
+  <img src="../assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">Безопасность и конфиденциальность</h2>
 
@@ -65,7 +68,7 @@
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="112" alt="">
+  <img src="../assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">Инструменты разработки</h2>
 
@@ -106,7 +109,7 @@
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="112" alt="">
+  <img src="../assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">Облако и хостинг</h2>
 
@@ -131,7 +134,7 @@
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="112" alt="">
+  <img src="../assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">Инструменты ИИ</h2>
 
@@ -166,7 +169,7 @@
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="112" alt="">
+  <img src="../assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">Дизайн и медиа</h2>
 
@@ -229,7 +232,7 @@
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="112" alt="">
+  <img src="../assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">Конструкторы сайтов и шаблоны</h2>
 
@@ -259,7 +262,7 @@
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="112" alt="">
+  <img src="../assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">Продуктивность и утилиты</h2>
 
@@ -380,7 +383,7 @@
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="112" alt="">
+  <img src="../assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">Бизнес и маркетинг</h2>
 
@@ -448,4 +451,4 @@
 
 Добавьте или обновите строку в нужной категории и откройте Pull Request. Укажите прямую ссылку на продукт, краткое описание скидки, цену с валютой и периодом оплаты, а также точный промокод. Неизвестные сведения обозначайте `—`. Сортируйте продукты по алфавиту и не добавляйте изображения в строки таблицы. Иллюстрации хранятся в `assets/`.
 
-Переводы можно добавлять как `README_<language>.md`, размещая ссылку в списке языков.
+Переводы можно добавлять как `i18n/README_<language>.md`, размещая ссылку в списке языков.

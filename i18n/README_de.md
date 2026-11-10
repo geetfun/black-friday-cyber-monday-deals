@@ -1,15 +1,31 @@
 <p align="center">
-  <img src="assets/banner.webp" width="1200" alt="Notizbuch-Collage zum Black Friday 2026">
+  <img src="../assets/banner.webp" width="1200" alt="Notizbuch-Collage zum Black Friday 2026">
 </p>
 
 # Black-Friday-Angebote für Entwickler — 2026
 
-**Sprachen:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**Sprachen:** [English](../README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 Black-Friday- und Cyber-Monday-Angebote für Entwicklertools, technisches Lernen und Software. Zusammengestellt von [LabEx](https://labex.io/).
 
+## Inhalt
+
+- [LabEx Black Friday](#labex)
+- [Sicherheit & Datenschutz](#security)
+- [Entwicklertools](#development)
+- [Cloud & Hosting](#cloud)
+- [KI-Tools](#ai)
+- [Design & Medien](#design)
+- [Website-Baukästen & Vorlagen](#web)
+- [Produktivität & Hilfsprogramme](#productivity)
+- [Business & Marketing](#business)
+
+Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `—` bedeutet, dass kein Betrag oder einzelner Code angegeben ist. Manche Angebote gelten nur für bestimmte Tarife; Termine und vollständige Bedingungen stehen auf der verlinkten Produktseite.
+
+<a name="labex"></a>
+
 <p align="center">
-  <img src="assets/labex.webp" height="64" alt="LabEx">
+  <img src="../assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx Black Friday</h2>
 
@@ -22,23 +38,10 @@ Lerne Linux, DevOps, Cybersicherheit und Cloud-Technologien mit praktischen Übu
 | [LabEx Pro · 1 Jahr](https://labex.io/checkout?type=2&coupon=2026BF30) | **30% Rabatt** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2 Jahre](https://labex.io/checkout?type=4&coupon=2026BF50) | **50% Rabatt** | **$99.90** | `2026BF50` |
 
-## Inhalt
-
-- [Sicherheit & Datenschutz](#security)
-- [Entwicklertools](#development)
-- [Cloud & Hosting](#cloud)
-- [KI-Tools](#ai)
-- [Design & Medien](#design)
-- [Website-Baukästen & Vorlagen](#web)
-- [Produktivität & Hilfsprogramme](#productivity)
-- [Business & Marketing](#business)
-
-Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `—` bedeutet, dass kein Betrag oder einzelner Code angegeben ist. Manche Angebote gelten nur für bestimmte Tarife; Termine und vollständige Bedingungen stehen auf der verlinkten Produktseite.
-
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="112" alt="">
+  <img src="../assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">Sicherheit &amp; Datenschutz</h2>
 
@@ -65,7 +68,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="112" alt="">
+  <img src="../assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">Entwicklertools</h2>
 
@@ -106,7 +109,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="112" alt="">
+  <img src="../assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">Cloud &amp; Hosting</h2>
 
@@ -131,7 +134,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="112" alt="">
+  <img src="../assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">KI-Tools</h2>
 
@@ -166,7 +169,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="112" alt="">
+  <img src="../assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">Design &amp; Medien</h2>
 
@@ -229,7 +232,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="112" alt="">
+  <img src="../assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">Website-Baukästen &amp; Vorlagen</h2>
 
@@ -259,7 +262,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="112" alt="">
+  <img src="../assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">Produktivität &amp; Hilfsprogramme</h2>
 
@@ -380,7 +383,7 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="112" alt="">
+  <img src="../assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">Business &amp; Marketing</h2>
 
@@ -448,4 +451,4 @@ Preise sind in US-Dollar angegeben, sofern keine andere Währung genannt wird. `
 
 Ergänze oder aktualisiere eine Zeile in der passenden Kategorie und öffne einen Pull Request. Gib einen direkten Produktlink, eine kurze Rabattangabe, den Angebotspreis mit Währung und Abrechnungszeitraum sowie den genauen Gutscheincode an. Verwende `—` für fehlende Angaben. Sortiere Produkte alphabetisch und verwende in den Tabellenzeilen keine Bilder. Illustrationen liegen in `assets/`.
 
-Übersetzungen können als `README_<language>.md` ergänzt und in der Sprachauswahl verlinkt werden.
+Übersetzungen können als `i18n/README_<language>.md` ergänzt und in der Sprachauswahl verlinkt werden.

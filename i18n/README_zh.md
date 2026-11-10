@@ -1,15 +1,31 @@
 <p align="center">
-  <img src="assets/banner.webp" width="1200" alt="2026 黑五手帐拼贴横幅">
+  <img src="../assets/banner.webp" width="1200" alt="2026 黑五手帐拼贴横幅">
 </p>
 
 # 2026 开发者黑五优惠精选
 
-**语言：** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**语言：** [English](../README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 精选开发工具、技术学习与软件的黑色星期五和网络星期一优惠，由 [LabEx](https://labex.io/) 整理。
 
+## 目录
+
+- [LabEx 黑五优惠](#labex)
+- [安全与隐私](#security)
+- [开发工具](#development)
+- [云服务与主机](#cloud)
+- [AI 工具](#ai)
+- [设计与媒体](#design)
+- [建站工具与模板](#web)
+- [效率与实用工具](#productivity)
+- [商业与营销](#business)
+
+除另有货币标记外，价格均以美元计价。`—` 表示未列出金额或单一优惠码。部分优惠仅适用于指定方案，具体日期与完整条款请查看产品链接。
+
+<a name="labex"></a>
+
 <p align="center">
-  <img src="assets/labex.webp" height="64" alt="LabEx">
+  <img src="../assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx 黑五优惠</h2>
 
@@ -22,23 +38,10 @@
 | [LabEx Pro · 1 年](https://labex.io/checkout?type=2&coupon=2026BF30) | **立减 30%** | **$69.90** | `2026BF30` |
 | [LabEx Pro · 2 年](https://labex.io/checkout?type=4&coupon=2026BF50) | **立减 50%** | **$99.90** | `2026BF50` |
 
-## 目录
-
-- [安全与隐私](#security)
-- [开发工具](#development)
-- [云服务与主机](#cloud)
-- [AI 工具](#ai)
-- [设计与媒体](#design)
-- [建站工具与模板](#web)
-- [效率与实用工具](#productivity)
-- [商业与营销](#business)
-
-除另有货币标记外，价格均以美元计价。`—` 表示未列出金额或单一优惠码。部分优惠仅适用于指定方案，具体日期与完整条款请查看产品链接。
-
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="112" alt="">
+  <img src="../assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">安全与隐私</h2>
 
@@ -65,7 +68,7 @@
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="112" alt="">
+  <img src="../assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">开发工具</h2>
 
@@ -106,7 +109,7 @@
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="112" alt="">
+  <img src="../assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">云服务与主机</h2>
 
@@ -131,7 +134,7 @@
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="112" alt="">
+  <img src="../assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">AI 工具</h2>
 
@@ -166,7 +169,7 @@
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="112" alt="">
+  <img src="../assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">设计与媒体</h2>
 
@@ -229,7 +232,7 @@
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="112" alt="">
+  <img src="../assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">建站工具与模板</h2>
 
@@ -259,7 +262,7 @@
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="112" alt="">
+  <img src="../assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">效率与实用工具</h2>
 
@@ -380,7 +383,7 @@
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="112" alt="">
+  <img src="../assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">商业与营销</h2>
 
@@ -448,4 +451,4 @@
 
 欢迎在对应分类中新增或更新一行，并提交 Pull Request。请提供产品直达链接、简短的折扣说明、注明币种与计费周期的优惠价，以及准确的优惠码。缺失信息填写 `—`，产品按名称字母顺序排列，表格内不添加图片。装饰素材统一存放在 `assets/`。
 
-其他语言版本可命名为 `README_<language>.md`，并在顶部语言栏添加链接。
+其他语言版本可命名为 `i18n/README_<language>.md`，并在顶部语言栏添加链接。
