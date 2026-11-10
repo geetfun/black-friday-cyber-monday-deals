@@ -1,6 +1,6 @@
 # Awesome Black Friday Deals for Developers — 2026
 
-**Languages:** [English](README.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md)
 
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
 
