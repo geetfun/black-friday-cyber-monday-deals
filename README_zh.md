@@ -48,12 +48,15 @@
 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | 立减 50% | $24.99 · 一次性购买 | `BLACK` |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 立减 25% | — | `BFF25` |
+| [LabEx Pro · 1 年](https://labex.io/checkout?type=2&coupon=2026BF30) | **立减 30%** | **$69.90** | `2026BF30` |
+| [LabEx Pro · 2 年](https://labex.io/checkout?type=4&coupon=2026BF50) | **立减 50%** | **$99.90** | `2026BF50` |
 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY26) | 立减 40% | — | `BLACKFRIDAY26` |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) | 认证立减 15%；套装最高减 $600 | 起价 $764.00 · 认证 | — |
 | [pwn.guide](https://pwn.guide/pricing) | 立减 20% | $199.20 · 终身版 | `BLKFRI20` |
 | [Skillshare](https://www.skillshare.com/en/join) | 立减 20% | — | — |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) | 立减 40% | 起价 $30.00 · 课程 | `BF2026` |
+
 
 <a name="security"></a>
 
