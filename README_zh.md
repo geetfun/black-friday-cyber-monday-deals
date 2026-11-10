@@ -9,7 +9,7 @@
 精选开发工具、技术学习与软件的黑色星期五和网络星期一优惠，由 [LabEx](https://labex.io/) 整理。
 
 <p align="center">
-  <img src="assets/labex.webp" height="48" alt="LabEx">
+  <img src="assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx 黑五优惠</h2>
 
@@ -37,7 +37,7 @@
 <a name="learning"></a>
 
 <p align="center">
-  <img src="assets/learning.webp" height="80" alt="">
+  <img src="assets/learning.webp" height="112" alt="">
 </p>
 <h2 align="center">课程与书籍</h2>
 
@@ -58,7 +58,7 @@
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="80" alt="">
+  <img src="assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">安全与隐私</h2>
 
@@ -85,7 +85,7 @@
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="80" alt="">
+  <img src="assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">开发工具</h2>
 
@@ -126,7 +126,7 @@
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="80" alt="">
+  <img src="assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">云服务与主机</h2>
 
@@ -151,7 +151,7 @@
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="80" alt="">
+  <img src="assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">AI 工具</h2>
 
@@ -186,7 +186,7 @@
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="80" alt="">
+  <img src="assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">设计与媒体</h2>
 
@@ -249,7 +249,7 @@
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="80" alt="">
+  <img src="assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">建站工具与模板</h2>
 
@@ -279,7 +279,7 @@
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="80" alt="">
+  <img src="assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">效率与实用工具</h2>
 
@@ -400,7 +400,7 @@
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="80" alt="">
+  <img src="assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">商业与营销</h2>
 

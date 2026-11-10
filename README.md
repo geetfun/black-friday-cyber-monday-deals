@@ -9,7 +9,7 @@
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
 
 <p align="center">
-  <img src="assets/labex.webp" height="48" alt="LabEx">
+  <img src="assets/labex.webp" height="64" alt="LabEx">
 </p>
 <h2 align="center">LabEx Black Friday</h2>
 
@@ -37,7 +37,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="learning"></a>
 
 <p align="center">
-  <img src="assets/learning.webp" height="80" alt="">
+  <img src="assets/learning.webp" height="112" alt="">
 </p>
 <h2 align="center">Courses &amp; Books</h2>
 
@@ -58,7 +58,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="security"></a>
 
 <p align="center">
-  <img src="assets/security.webp" height="80" alt="">
+  <img src="assets/security.webp" height="112" alt="">
 </p>
 <h2 align="center">Security &amp; Privacy</h2>
 
@@ -85,7 +85,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="development"></a>
 
 <p align="center">
-  <img src="assets/development.webp" height="80" alt="">
+  <img src="assets/development.webp" height="112" alt="">
 </p>
 <h2 align="center">Developer Tools</h2>
 
@@ -126,7 +126,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="cloud"></a>
 
 <p align="center">
-  <img src="assets/cloud.webp" height="80" alt="">
+  <img src="assets/cloud.webp" height="112" alt="">
 </p>
 <h2 align="center">Cloud &amp; Hosting</h2>
 
@@ -151,7 +151,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="ai"></a>
 
 <p align="center">
-  <img src="assets/ai.webp" height="80" alt="">
+  <img src="assets/ai.webp" height="112" alt="">
 </p>
 <h2 align="center">AI Tools</h2>
 
@@ -186,7 +186,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="design"></a>
 
 <p align="center">
-  <img src="assets/design.webp" height="80" alt="">
+  <img src="assets/design.webp" height="112" alt="">
 </p>
 <h2 align="center">Design &amp; Media</h2>
 
@@ -249,7 +249,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="web"></a>
 
 <p align="center">
-  <img src="assets/web.webp" height="80" alt="">
+  <img src="assets/web.webp" height="112" alt="">
 </p>
 <h2 align="center">Website Builders &amp; Templates</h2>
 
@@ -279,7 +279,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="productivity"></a>
 
 <p align="center">
-  <img src="assets/productivity.webp" height="80" alt="">
+  <img src="assets/productivity.webp" height="112" alt="">
 </p>
 <h2 align="center">Productivity &amp; Utilities</h2>
 
@@ -400,7 +400,7 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 <a name="business"></a>
 
 <p align="center">
-  <img src="assets/business.webp" height="80" alt="">
+  <img src="assets/business.webp" height="112" alt="">
 </p>
 <h2 align="center">Business &amp; Marketing</h2>
 
