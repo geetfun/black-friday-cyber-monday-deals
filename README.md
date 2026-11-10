@@ -8,7 +8,10 @@
 
 Black Friday and Cyber Monday deals on developer tools, technical learning, and software. Curated by [LabEx](https://labex.io/).
 
-## <img src="assets/labex.webp" width="112" alt="LabEx"> Black Friday
+<p align="center">
+  <img src="assets/labex.webp" height="48" alt="LabEx">
+</p>
+<h2 align="center">LabEx Black Friday</h2>
 
 Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser. Both offers are available to new and existing users through **December 7, 2026**.
 
@@ -33,7 +36,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="learning"></a>
 
-## <img src="assets/learning.webp" width="48" alt=""> Courses & Books
+<p align="center">
+  <img src="assets/learning.webp" height="80" alt="">
+</p>
+<h2 align="center">Courses &amp; Books</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -51,7 +57,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="security"></a>
 
-## <img src="assets/security.webp" width="48" alt=""> Security & Privacy
+<p align="center">
+  <img src="assets/security.webp" height="80" alt="">
+</p>
+<h2 align="center">Security &amp; Privacy</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -75,7 +84,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="development"></a>
 
-## <img src="assets/development.webp" width="48" alt=""> Developer Tools
+<p align="center">
+  <img src="assets/development.webp" height="80" alt="">
+</p>
+<h2 align="center">Developer Tools</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -113,7 +125,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="cloud"></a>
 
-## <img src="assets/cloud.webp" width="48" alt=""> Cloud & Hosting
+<p align="center">
+  <img src="assets/cloud.webp" height="80" alt="">
+</p>
+<h2 align="center">Cloud &amp; Hosting</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -135,7 +150,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="ai"></a>
 
-## <img src="assets/ai.webp" width="48" alt=""> AI Tools
+<p align="center">
+  <img src="assets/ai.webp" height="80" alt="">
+</p>
+<h2 align="center">AI Tools</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -167,7 +185,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="design"></a>
 
-## <img src="assets/design.webp" width="48" alt=""> Design & Media
+<p align="center">
+  <img src="assets/design.webp" height="80" alt="">
+</p>
+<h2 align="center">Design &amp; Media</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -227,7 +248,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="web"></a>
 
-## <img src="assets/web.webp" width="48" alt=""> Website Builders & Templates
+<p align="center">
+  <img src="assets/web.webp" height="80" alt="">
+</p>
+<h2 align="center">Website Builders &amp; Templates</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -254,7 +278,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="productivity"></a>
 
-## <img src="assets/productivity.webp" width="48" alt=""> Productivity & Utilities
+<p align="center">
+  <img src="assets/productivity.webp" height="80" alt="">
+</p>
+<h2 align="center">Productivity &amp; Utilities</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
@@ -372,7 +399,10 @@ Prices are in USD unless another currency is shown. `—` means no amount or sin
 
 <a name="business"></a>
 
-## <img src="assets/business.webp" width="48" alt=""> Business & Marketing
+<p align="center">
+  <img src="assets/business.webp" height="80" alt="">
+</p>
+<h2 align="center">Business &amp; Marketing</h2>
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |

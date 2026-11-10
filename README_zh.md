@@ -8,7 +8,10 @@
 
 精选开发工具、技术学习与软件的黑色星期五和网络星期一优惠，由 [LabEx](https://labex.io/) 整理。
 
-## <img src="assets/labex.webp" width="112" alt="LabEx"> 黑五优惠
+<p align="center">
+  <img src="assets/labex.webp" height="48" alt="LabEx">
+</p>
+<h2 align="center">LabEx 黑五优惠</h2>
 
 通过浏览器中的动手实验，学习 Linux、DevOps、网络安全与云计算。以下两种优惠均适用于新老用户，截止日期为 **2026 年 12 月 7 日**。
 
@@ -33,7 +36,10 @@
 
 <a name="learning"></a>
 
-## <img src="assets/learning.webp" width="48" alt=""> 课程与书籍
+<p align="center">
+  <img src="assets/learning.webp" height="80" alt="">
+</p>
+<h2 align="center">课程与书籍</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -51,7 +57,10 @@
 
 <a name="security"></a>
 
-## <img src="assets/security.webp" width="48" alt=""> 安全与隐私
+<p align="center">
+  <img src="assets/security.webp" height="80" alt="">
+</p>
+<h2 align="center">安全与隐私</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -75,7 +84,10 @@
 
 <a name="development"></a>
 
-## <img src="assets/development.webp" width="48" alt=""> 开发工具
+<p align="center">
+  <img src="assets/development.webp" height="80" alt="">
+</p>
+<h2 align="center">开发工具</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -113,7 +125,10 @@
 
 <a name="cloud"></a>
 
-## <img src="assets/cloud.webp" width="48" alt=""> 云服务与主机
+<p align="center">
+  <img src="assets/cloud.webp" height="80" alt="">
+</p>
+<h2 align="center">云服务与主机</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -135,7 +150,10 @@
 
 <a name="ai"></a>
 
-## <img src="assets/ai.webp" width="48" alt=""> AI 工具
+<p align="center">
+  <img src="assets/ai.webp" height="80" alt="">
+</p>
+<h2 align="center">AI 工具</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -167,7 +185,10 @@
 
 <a name="design"></a>
 
-## <img src="assets/design.webp" width="48" alt=""> 设计与媒体
+<p align="center">
+  <img src="assets/design.webp" height="80" alt="">
+</p>
+<h2 align="center">设计与媒体</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -227,7 +248,10 @@
 
 <a name="web"></a>
 
-## <img src="assets/web.webp" width="48" alt=""> 建站工具与模板
+<p align="center">
+  <img src="assets/web.webp" height="80" alt="">
+</p>
+<h2 align="center">建站工具与模板</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -254,7 +278,10 @@
 
 <a name="productivity"></a>
 
-## <img src="assets/productivity.webp" width="48" alt=""> 效率与实用工具
+<p align="center">
+  <img src="assets/productivity.webp" height="80" alt="">
+</p>
+<h2 align="center">效率与实用工具</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
@@ -372,7 +399,10 @@
 
 <a name="business"></a>
 
-## <img src="assets/business.webp" width="48" alt=""> 商业与营销
+<p align="center">
+  <img src="assets/business.webp" height="80" alt="">
+</p>
+<h2 align="center">商业与营销</h2>
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
